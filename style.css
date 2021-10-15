@@ -1,0 +1,20 @@
+	body{
+	background-color:#e3e3e3;
+}
+.head ul{
+list-style-type:none;
+display: flex;
+float:left;
+font-style: oblique;
+font-size: 18px;
+}
+.head li a{
+margin-left:80px;
+text-decoration:none;
+}
+.head a:hover{
+  color:black;
+}
+form{
+	padding-top:90px;
+}
